@@ -11,5 +11,5 @@ Generate a simple maze using the depth-first algorithm
 ![ss1](1.png)
 
 - Or just use the defaults!  
-```maze = Maze()```
+```maze = Maze()```  
 ![ss1](2.png)
